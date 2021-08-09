@@ -21,3 +21,13 @@ strong {
 p {
     color:beige;
 }
+.primero {
+    font-style: oblique;
+    color: aqua;
+    text-decoration: underline;
+}
+.primero_2 {
+    font-style: normal;
+    color: greenyellow;
+    text-decoration:overline;
+}
